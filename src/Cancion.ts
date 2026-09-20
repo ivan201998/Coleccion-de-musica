@@ -1,4 +1,4 @@
-export class Canciones {
+export class Cancion {
     private reproduciendo = false;
 
     constructor(public titulo: string, 
